@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Suryanshu Saxena 👋
 
-<!--
-**Suryanshu77/Suryanshu77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ECE Student at Galgotias College of Engineering & Technology (AKTU)  
+💻 Interested in Python, Web Development, and Data Structures  
+🚀 Startup & Product Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Project
+📌 **StudyPulse** — Smart Study Session Tracker (Python)  
+👉 Track study time, subject-wise summaries, and export reports  
+🔗 Check it out: https://github.com/Suryanshu77/StudyPulse
+
+---
+
+## 🛠️ Skills
+- Python
+- C++
+- HTML, CSS, JavaScript
+- Canva / Photoshop / Illustrator
+
+---
+
+## 📫 Connect with me
+- LinkedIn: *(https://www.linkedin.com/in/suryanshusaxena7/)*
+- Email: *(suryanshu.saxena@gmail.com)*
+
+⭐ Thanks for visiting my profile!
