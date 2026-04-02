@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryanshu77&label=Profile%20views&color=0e75b6&style=flat" alt="suryanshu77" /> </p>
 
-- 🔭 I’m currently studying **Electronics and Communication Engineering**
+- 🔭 I’m currently studying **Engineering**
 
 - 🌱 I’m currently learning **data structures and algorithm**
 
