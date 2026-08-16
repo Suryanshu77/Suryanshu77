@@ -364,7 +364,7 @@
 })()
 ```
 
-```aura width=120 height=44 link="https://www.linkedin.com/in/ykharchenko/" inline align=center
+```aura width=120 height=44 link="https://www.linkedin.com/in/suryanshusaxena7/" inline align=center
 <SocialMediaButton
   icon="https://raw.githubusercontent.com/collectioneur/collectioneur/main/icons/linkedin-icon.png"
   text="Linkedin"
@@ -381,7 +381,7 @@
 />
 ```
 
-```aura width=138 height=44 link="https://x.com/collectioneurr" inline align=center
+```aura width=138 height=44 link="https://x.com/SuryanshuS42149" inline align=center
 <SocialMediaButton
   icon="https://raw.githubusercontent.com/collectioneur/collectioneur/main/icons/x-icon.svg"
   text="X.com"
@@ -415,7 +415,7 @@
 />
 ```
 
-```aura width=110 height=44 link="mailto:yehorkharchenko4@gmail.com" inline align=center
+```aura width=110 height=44 link="mailto:suryanshu.saxena@gmail.com" inline align=center
 <SocialMediaButton
   icon="https://raw.githubusercontent.com/collectioneur/collectioneur/main/icons/gmail-icon.svg"
   text="Email"
@@ -432,7 +432,7 @@
 />
 ```
 
-```aura width=130 height=44 link="https://www.pinterest.com/collectioneurr" inline align=center
+```aura width=130 height=44 link="https://pin.it/50kORjFPk" inline align=center
 <SocialMediaButton
   icon="https://raw.githubusercontent.com/collectioneur/collectioneur/main/icons/pinterest-icon.svg"
   text="Pinterest"
